@@ -1,2 +1,2 @@
-CherryPy==3.2.3
+CherryPy
 Jinja2>=2.7.3
